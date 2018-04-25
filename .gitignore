@@ -3,3 +3,4 @@
 RemoteSystemsTempFiles/*
 *nbactions*
 
+/BasicSpringbootProject/target/
